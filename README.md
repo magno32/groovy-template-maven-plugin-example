@@ -1,8 +1,8 @@
 # Example for Groovy-Template Maven Plugin
 
-This is an example project that uses the [Groovy Template Maven Plugin](https://github.com/magno32/groovy-template-maven-plugin).
+This is an example project that uses the [Groovy Template Maven Plugin](https://github.com/summitsystemsinc/groovy-template-maven-plugin).
 
-For full project documentation please see the [project docs](http://magno32.github.io/groovy-template-maven-plugin).
+For full project documentation please see the [project docs](http://summitsystemsinc.github.io/groovy-template-maven-plugin).
 
 ## Usage
 To test this example: 
