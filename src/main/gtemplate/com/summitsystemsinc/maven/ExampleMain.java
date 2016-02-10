@@ -23,6 +23,7 @@
  */
 public class ExampleMain {
 	public static void main(String[] args){
+		//There are ${messages.size()} messages to print.
 		<% for(def m : messages) { %>
 			//Printing "$m" to console.
 			System.out.println("$m");
